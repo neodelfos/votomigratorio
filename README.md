@@ -1,7 +1,7 @@
 ### Determinación de Voto Migratorio
 ![](https://cdn-icons-png.flaticon.com/256/3669/3669035.png)
 
-El presente **trabajo de Aprendizaje Automático **pretende formular un modelo que permita **determinar la presencia del voto migratorio** a instancias de un set de datos generado por una encuesta de investigación electoral.
+El presente **trabajo de Aprendizaje Automático **pretende formular un modelo que permita **determinar la presencia del voto migratorio** a instancias de un set de datos generado por una encuesta de investigación electoral. 
 A tales efectos es importante señalar que el set de datos original que fue producto de un proceso de investigación factico, fue recortado extrayendo del mismo 3 variables que resultan fundamentales para el avance del objeto de estudio en cuestión.
 Por otro lado, cabe destacar que en términos de la investigación cuantitativa electoral vinculada a la realización de encuestas, se obtienen datos que en la gran mayoría de los casos responden a la frecuencia del fenómeno observado, pero pocas veces se formula la apreciación intrínseca del comportamiento de los encuestados en tanto electores y sus eventuales comportamientos como el fenómeno de potencial migración de los mismos.
 Es en este sentido en el cual radica la importancia de la formulación de un modelo que logre clasificar adecuadamente este fenómeno de comportamiento electoral.
