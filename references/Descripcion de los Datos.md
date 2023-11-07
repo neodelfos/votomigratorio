@@ -5,6 +5,7 @@
 **Cantidad de Instancias: **El conjunto de datos se compone de 366 filas, cada una de ellas representando una observación única que hace referencia a una encuesta realizada en la ciudad de Río Grande en noviembre del año 2018.
 **Características (Columnas):** El conjunto de datos cuenta con 3 columnas que representan los mismos atributos en función de distintas variables:
 **GOB1 (Tipo float64):** Esta columna almacena información sobre potencial oferte electoral en la encuesta, los valores en esta columna son:
+
 1 Candidato A
 2 Candidato B
 3 Candidato C
