@@ -17,9 +17,9 @@ Por último, creo que es importante destacar que este proceso de investigación 
 
 A continuación, y a efectos de ser aún más explícitos, pese al desarrollo previo vamos a tipificar y enumerar las preguntas vinculadas al proyecto de investigación propuesto: 
 - **1 **¿Es posible desarrollar un modelo que permita determinar la presencia del voto migratorio?
-- **2** ¿Cómo se puede clasificar adecuadamente el comportamiento electoral de los encuestados?
+- **2**¿Cómo se puede clasificar adecuadamente el comportamiento electoral de los encuestados?
 - **3 **¿Cuál es la dimensión de este fenómeno en el conjunto de datos evaluado?
-- **4** ¿Cómo se puede contrastar este proceso con ejecuciones posteriores para realizar diagnósticos más precisos?
+- **4**¿Cómo se puede contrastar este proceso con ejecuciones posteriores para realizar diagnósticos más precisos?
 
 
 votomigratorio
